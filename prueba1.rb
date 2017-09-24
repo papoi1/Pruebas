@@ -1,3 +1,3 @@
 def hola
-    return 'hola mundo'
+    return 'hello world'
 end
